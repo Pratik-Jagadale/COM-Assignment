@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{1CDCBCEB-B24E-4D19-ABAB-79DD8105C761}]
+@="MyComDll"
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{1CDCBCEB-B24E-4D19-ABAB-79DD8105C761}\InprocServer32]
+@="C:\\Windows\\SysWOW64\\ContainmentInnerComponentWithRegFile.dll"
